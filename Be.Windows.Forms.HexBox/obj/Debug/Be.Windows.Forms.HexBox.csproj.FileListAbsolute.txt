@@ -7,3 +7,11 @@ D:\CODE\GitHub\X360DebuggerWV\Be.Windows.Forms.HexBox\obj\Debug\Be.Windows.Forms
 D:\CODE\GitHub\X360DebuggerWV\Be.Windows.Forms.HexBox\obj\Debug\Be.Windows.Forms.HexBox.csproj.GenerateResource.Cache
 D:\CODE\GitHub\X360DebuggerWV\Be.Windows.Forms.HexBox\obj\Debug\Be.Windows.Forms.HexBox.dll
 D:\CODE\GitHub\X360DebuggerWV\Be.Windows.Forms.HexBox\obj\Debug\Be.Windows.Forms.HexBox.pdb
+C:\Users\there\source\repos\- Forked\X360DebuggerWV\Be.Windows.Forms.HexBox\bin\Debug\Be.Windows.Forms.HexBox.dll
+C:\Users\there\source\repos\- Forked\X360DebuggerWV\Be.Windows.Forms.HexBox\bin\Debug\Be.Windows.Forms.HexBox.pdb
+C:\Users\there\source\repos\- Forked\X360DebuggerWV\Be.Windows.Forms.HexBox\bin\Debug\Be.Windows.Forms.HexBox.xml
+C:\Users\there\source\repos\- Forked\X360DebuggerWV\Be.Windows.Forms.HexBox\obj\Debug\Be.Windows.Forms.HexBox.resources
+C:\Users\there\source\repos\- Forked\X360DebuggerWV\Be.Windows.Forms.HexBox\obj\Debug\Be.Windows.Forms.Properties.Resources.resources
+C:\Users\there\source\repos\- Forked\X360DebuggerWV\Be.Windows.Forms.HexBox\obj\Debug\Be.Windows.Forms.HexBox.csproj.GenerateResource.cache
+C:\Users\there\source\repos\- Forked\X360DebuggerWV\Be.Windows.Forms.HexBox\obj\Debug\Be.Windows.Forms.HexBox.dll
+C:\Users\there\source\repos\- Forked\X360DebuggerWV\Be.Windows.Forms.HexBox\obj\Debug\Be.Windows.Forms.HexBox.pdb
